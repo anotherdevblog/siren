@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Siren.Data\Siren.Data.csproj" />
+    <ProjectReference Include="..\Siren.GeneralMonitorConfigurations\Siren.GeneralMonitorConfigurations.csproj" />
+  </ItemGroup>
+
+</Project>
