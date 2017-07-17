@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Siren.Core", "Siren.Core\Siren.Core.csproj", "{BEE71BBC-EC42-4ED1-AF3F-03AD341F93BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siren.Data", "Siren.Data\Siren.Data.csproj", "{92875063-9D7A-4200-BC3E-633801EA1B6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Siren.Data", "Siren.Data\Siren.Data.csproj", "{92875063-9D7A-4200-BC3E-633801EA1B6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siren.Common", "Siren.Common\Siren.Common.csproj", "{A9CF2EDE-A354-4988-8893-C311DA4C0551}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Siren.Common", "Siren.Common\Siren.Common.csproj", "{A9CF2EDE-A354-4988-8893-C311DA4C0551}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MonitorConfigurations", "MonitorConfigurations", "{54EA7CD3-C01C-465F-90F5-5DD7155633BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siren.GeneralMonitorConfigurations", "Siren.GeneralMonitorConfigurations\Siren.GeneralMonitorConfigurations.csproj", "{9BF7D775-29AA-4064-80F6-5B2C6C87C7FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Siren.GeneralMonitorConfigurations", "Siren.GeneralMonitorConfigurations\Siren.GeneralMonitorConfigurations.csproj", "{9BF7D775-29AA-4064-80F6-5B2C6C87C7FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

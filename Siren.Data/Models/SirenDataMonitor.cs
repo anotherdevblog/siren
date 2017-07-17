@@ -8,6 +8,8 @@ namespace Siren.Data.Models
 {
     public abstract class SirenDataMonitor : SirenDataModel
     {
+        public long DashboardID { get; set; }
+
         internal object ConfigurationObject { get; set; }
     }
 

@@ -105,7 +105,6 @@ namespace Siren.Data.Repositories
 
         private SirenDataQueryResultSingle<T> Update<T>(T val) where T : SirenDataModel
         {
-            val.BeforeStore();
             var thisType = typeof(T);
             var dict = _data.GetOrAdd(thisType, new ConcurrentDictionary<long, SirenDataModel>());
             return new SirenDataQueryResultSingle<T>
