@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MonitorConfigurations", "Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Siren.GeneralMonitorConfigurations", "Siren.GeneralMonitorConfigurations\Siren.GeneralMonitorConfigurations.csproj", "{9BF7D775-29AA-4064-80F6-5B2C6C87C7FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siren.Web", "Siren.Web\Siren.Web.csproj", "{7D4F483B-C16D-441D-BA60-D92B479A7409}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{9BF7D775-29AA-4064-80F6-5B2C6C87C7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BF7D775-29AA-4064-80F6-5B2C6C87C7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BF7D775-29AA-4064-80F6-5B2C6C87C7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4F483B-C16D-441D-BA60-D92B479A7409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4F483B-C16D-441D-BA60-D92B479A7409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4F483B-C16D-441D-BA60-D92B479A7409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4F483B-C16D-441D-BA60-D92B479A7409}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
